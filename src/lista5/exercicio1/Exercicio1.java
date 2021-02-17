@@ -1,4 +1,4 @@
-package lista4.exercicio1;
+package lista5.exercicio1;
 
 import java.util.Arrays;
 import java.util.List;
